@@ -7,7 +7,7 @@ My background is networking: structured cabling, fibre optics and Cisco configur
 **Projects**
 
 - [office-network-design](https://github.com/mwozniak-net/office-network-design) – LAN/WLAN and structured cabling design for a 4-storey office building with 66 users. Covers VLAN segmentation, 802.1X, firewall policy, SIEM logging and alert rules, a backup policy, UPS sizing, and a cost estimate.
-- [cisco-network-labs](https://github.com/mwozniak-net/cisco-network-labs) – four Cisco Packet Tracer labs with HLD/LLD documents and final configs. They cover VLANs and inter-VLAN routing, OSPF with WAN failover, NAT/DMZ/ACLs, and Layer 2 security (DHCP snooping, DAI, port security) against a rogue device. Each lab was reviewed, fixed and re-tested.
+- [cisco-network-labs](https://github.com/mwozniak-net/cisco-network-labs) – four Packet Tracer worksheets from my SkillsPoland 2026 final preparation (Skill 39). They cover VLANs and router-on-a-stick, OSPF with WAN failover, NAT/DMZ/ACLs, and Layer 2 security against a rogue DHCP server. Each lab includes an HLD, an LLD, a test protocol and the final configs, checked against the worksheet tasks.
 
 **Certifications and training**
 
